@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: green;
+}
+
+.gens {
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.color-dom {
+    color: blue;
+}
+
+.color-rec {
+    color: yellow;
+}
+
+.second {
+    display: flex;
+}
+
+.third {
+    display: flex;
+    justify-content: space-between;
+}
+
+.pair {
+    display: flex;
+    border: 2px solid black;
+    margin-right: 12px;
+}
+
+.child {
+    margin-right: 12px;
+}
+
+#2-gen-1 {
+
+}
+#2-gen-2 {
+    
+}
+#2-gen-3 {
+
+}
+#2-gen-4 {
+    
+}
